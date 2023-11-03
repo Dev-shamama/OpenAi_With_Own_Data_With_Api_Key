@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\WindowsApps\Microsoft.PowerShell_7.3.9.0_x64__8wekyb3d8bbwe;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\nodejs\;C:\Program Files\dotnet\;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Programs\Python\Python310\;C:\Users\SHAMAMA-BIN-SHAKIL\scoop\apps\nodejs\current\bin;C:\Users\SHAMAMA-BIN-SHAKIL\scoop\apps\nodejs\current;C:\Users\SHAMAMA-BIN-SHAKIL\scoop\shims;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Microsoft\WindowsApps;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Roaming\Composer\vendor\bin;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Programs\oh-my-posh\bin;C:\Users\SHAMAMA-BIN-SHAKIL\.dotnet\tools;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\GitHubDesktop\bin;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Local\Programs\mongosh\;C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\SHAMAMA-BIN-SHAKIL\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137150:13)
+      at Interface.emit (node:events:514:28)
+      at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1125:18)
+      at ReadStream.onkeypress (node:internal/readline/interface:264:20)
+      at ReadStream.emit (node:events:514:28)
+      at emitKeys (node:internal/readline/utils:371:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+      at ReadStream.emit (node:events:514:28)
+      at addChunk (node:internal/streams/readable:376:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
